@@ -1,0 +1,7 @@
+path: /Users/dozz/Dozz1/video/dataset
+train: images
+val: images
+
+# Classes
+names:
+  0: lpr
